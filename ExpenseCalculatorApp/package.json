@@ -1,0 +1,27 @@
+{
+  "name": "expensecalculatorapp",
+  "version": "1.0.0",
+  "description": "Calculates the expense of the individual and visualizes it in the form of graphs. Previous sessions are being recorded and displayed to the user. Users will be able to login and it is password protected.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danidanish/ExpenseCalculator.git"
+  },
+  "keywords": [
+    "\"expense",
+    "calculator\"",
+    "\"finance\"",
+    "\"budget\"",
+    "\"calculator\"",
+    "\"web",
+    "application\""
+  ],
+  "author": "Danish",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
